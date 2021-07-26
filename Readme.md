@@ -1,2 +1,2 @@
 # Calculadora API (GQSO IFAL)
-    Calculadora
+    Repositório da calculadora API utilizando a linguagem GO.
