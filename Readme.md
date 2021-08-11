@@ -1,2 +1,2 @@
 # Calculadora API (GQSO IFAL)
-    Calculadora
+    Calculadora API usando REST
