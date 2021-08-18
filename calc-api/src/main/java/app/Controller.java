@@ -2,11 +2,11 @@ package app;
 
 import io.jooby.annotations.*;
 
-@Path("/")
-public class Controller {
 
+public class Controller {
+  @Path("/")
   @GET
   public String sayHi() {
-    return "Welcome to Jooby!";
+    return "Calculadora API!";
   }
 }
