@@ -8,7 +8,7 @@ public class SomaTeste{
     @Test
     public void testeSoma_sucess(){
         Soma soma = new Soma();
-        assertEquals(2, soma.rotaSoma(2,4));
+        assertEquals(6, soma.rotaSoma(2,4));
     }
  
 }
